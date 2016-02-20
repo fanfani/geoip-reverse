@@ -1,6 +1,6 @@
 # geoip-reverse
 
-l4m3r tools to get public ip addresses associated to a given place. Think of it as a reverse geocoder for IP addresses.
+l4m3r tools to get public IP addresses associated to a given place. Think of it as a reverse geocoder for IP.
 
 
 list-ips-by.sh
